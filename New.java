@@ -12,7 +12,7 @@ class Book {
         this.author = author;
         this.genre = genre;
         this.year = year;
-    }
+    } // Contibuted by Shubham K
     
     void displayBook() {
         System.out.println("\nBook Details:");
